@@ -5,7 +5,7 @@ const APP_KEY = "2GF5EFCvLkplZoMxC54vhx98y";
 const APP_SECRET = "M75BBcdgTcVMsl29kXPzE8YrNrBtnqmOyRK5BgfP7nbVhWKsqE";
 const ACCESS_TOKEN = "1939256842296967168-powjqoNXug1XOWokAGg13OqzUyvady";
 const ACCESS_SECRET = "7K7nE5fxkfYKFrSExqb1fDCwbK78MhVdleO0gSAPXwMn8";
-const GEMINI_API_KEY = "AIzaSyCmlW8Av8LwBks7zBW5LzetJVsJssGTo28";
+const GEMINI_API_KEY = "AIzaSyABRqbtygF_RzA3jK6i4e-abfCfote2R6A";
 
 const SECRETS = {
   APP_KEY,
